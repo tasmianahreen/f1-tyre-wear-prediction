@@ -1,4 +1,4 @@
-# Formula 1 Tyre Wear Prediction
+# 🏎️ Formula 1 Tyre Wear Prediction
 
 Machine learning + data visualization project for predicting Formula 1 tyre degradation using FastF1 telemetry and race data.
 
